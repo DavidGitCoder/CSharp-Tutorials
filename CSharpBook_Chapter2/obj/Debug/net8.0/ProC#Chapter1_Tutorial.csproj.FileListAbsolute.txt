@@ -1,0 +1,14 @@
+E:\DEV\.Net Projects\source\repos\ProC#Chapter1_Tutorial\bin\Debug\net8.0\ProC#Chapter1_Tutorial.exe
+E:\DEV\.Net Projects\source\repos\ProC#Chapter1_Tutorial\bin\Debug\net8.0\ProC#Chapter1_Tutorial.deps.json
+E:\DEV\.Net Projects\source\repos\ProC#Chapter1_Tutorial\bin\Debug\net8.0\ProC#Chapter1_Tutorial.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\ProC#Chapter1_Tutorial\bin\Debug\net8.0\ProC#Chapter1_Tutorial.dll
+E:\DEV\.Net Projects\source\repos\ProC#Chapter1_Tutorial\bin\Debug\net8.0\ProC#Chapter1_Tutorial.pdb
+E:\DEV\.Net Projects\source\repos\ProC#Chapter1_Tutorial\obj\Debug\net8.0\ProC#Chapter1_Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\ProC#Chapter1_Tutorial\obj\Debug\net8.0\ProC#Chapter1_Tutorial.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\ProC#Chapter1_Tutorial\obj\Debug\net8.0\ProC#Chapter1_Tutorial.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\ProC#Chapter1_Tutorial\obj\Debug\net8.0\ProC#Chapter1_Tutorial.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\ProC#Chapter1_Tutorial\obj\Debug\net8.0\ProC#Chapter1_Tutorial.dll
+E:\DEV\.Net Projects\source\repos\ProC#Chapter1_Tutorial\obj\Debug\net8.0\refint\ProC#Chapter1_Tutorial.dll
+E:\DEV\.Net Projects\source\repos\ProC#Chapter1_Tutorial\obj\Debug\net8.0\ProC#Chapter1_Tutorial.pdb
+E:\DEV\.Net Projects\source\repos\ProC#Chapter1_Tutorial\obj\Debug\net8.0\ProC#Chapter1_Tutorial.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\ProC#Chapter1_Tutorial\obj\Debug\net8.0\ref\ProC#Chapter1_Tutorial.dll
