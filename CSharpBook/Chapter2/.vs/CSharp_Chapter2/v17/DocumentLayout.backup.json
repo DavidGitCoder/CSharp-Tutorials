@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B237528A-EE8D-15C0-E304-A703CD626952}|CSharp_Chapter2.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter2\\sportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B237528A-EE8D-15C0-E304-A703CD626952}|CSharp_Chapter2.csproj|solutionrelative:sportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B237528A-EE8D-15C0-E304-A703CD626952}|CSharp_Chapter2.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B237528A-EE8D-15C0-E304-A703CD626952}|CSharp_Chapter2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B237528A-EE8D-15C0-E304-A703CD626952}|CSharp_Chapter2.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter2\\car.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{B237528A-EE8D-15C0-E304-A703CD626952}|CSharp_Chapter2.csproj|solutionrelative:car.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B237528A-EE8D-15C0-E304-A703CD626952}|CSharp_Chapter2.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter2\\sportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B237528A-EE8D-15C0-E304-A703CD626952}|CSharp_Chapter2.csproj|solutionrelative:sportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B237528A-EE8D-15C0-E304-A703CD626952}|CSharp_Chapter2.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -47,28 +55,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SportsCar.cs",
               "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter2\\SportsCar.cs",
               "RelativeDocumentMoniker": "SportsCar.cs",
               "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter2\\SportsCar.cs",
               "RelativeToolTip": "SportsCar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T17:51:10.726Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Car.cd",
               "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter2\\Car.cd",
               "RelativeDocumentMoniker": "Car.cd",
               "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter2\\Car.cd",
               "RelativeToolTip": "Car.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2025-08-20T17:23:32.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T17:23:32.94Z"
             },
             {
               "$type": "Document",
@@ -80,8 +87,7 @@
               "RelativeToolTip": "Make.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T17:47:31.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T17:47:31.578Z"
             },
             {
               "$type": "Document",
@@ -93,16 +99,7 @@
               "RelativeToolTip": "Car.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T17:32:35.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "WhenOpened": "2025-08-20T17:32:35.181Z"
             }
           ]
         }

@@ -9,5 +9,3 @@ namespace CSharpBook_Chapter2
     {
     }
 }
-
-//a new test, committed from Visual Studio 2022
