@@ -5,8 +5,13 @@ using System.Text;
 
 namespace CSharpBook_Chapter2;
 
-public class Car
+public class Make
 {
-    public string PetName{get;set; }
-    public string Make { get; set; }
+    public string Name
+    {
+        get => default;
+        set
+        {
+        }
+    }
 }
