@@ -36,11 +36,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DEV\\.Net Projects\\source\\repos\\ProC#Chapter1_Tutorial\\CSharp_Chapter2.csproj",
+      "projectUniqueName": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter2\\CSharp_Chapter2.csproj",
       "projectName": "CSharp_Chapter2",
-      "projectPath": "E:\\DEV\\.Net Projects\\source\\repos\\ProC#Chapter1_Tutorial\\CSharp_Chapter2.csproj",
+      "projectPath": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter2\\CSharp_Chapter2.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\DEV\\.Net Projects\\source\\repos\\ProC#Chapter1_Tutorial\\obj\\",
+      "outputPath": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
