@@ -9,7 +9,3 @@ namespace CSharpBook_Chapter2
     {
     }
 }
-
-/*
-please delete this after you pull this change from github
-*/
