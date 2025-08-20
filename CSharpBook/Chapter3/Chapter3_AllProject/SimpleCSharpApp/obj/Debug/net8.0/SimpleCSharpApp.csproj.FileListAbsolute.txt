@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\SimpleCSharpApp\bin\Debug\net8.0\SimpleCSharpApp.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\SimpleCSharpApp\bin\Debug\net8.0\SimpleCSharpApp.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\SimpleCSharpApp\bin\Debug\net8.0\SimpleCSharpApp.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\SimpleCSharpApp\bin\Debug\net8.0\SimpleCSharpApp.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\SimpleCSharpApp\bin\Debug\net8.0\SimpleCSharpApp.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\SimpleCSharpApp\obj\Debug\net8.0\refint\SimpleCSharpApp.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\SimpleCSharpApp\obj\Debug\net8.0\SimpleCSharpApp.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\SimpleCSharpApp\obj\Debug\net8.0\ref\SimpleCSharpApp.dll

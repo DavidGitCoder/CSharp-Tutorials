@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\Chapter3_AllProject.csproj": {}
+    "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\SimpleCSharpApp\\SimpleCSharpApp.csproj": {}
   },
   "projects": {
-    "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\Chapter3_AllProject.csproj": {
+    "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\SimpleCSharpApp\\SimpleCSharpApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\Chapter3_AllProject.csproj",
-        "projectName": "Chapter3_AllProject",
-        "projectPath": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\Chapter3_AllProject.csproj",
+        "projectUniqueName": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\SimpleCSharpApp\\SimpleCSharpApp.csproj",
+        "projectName": "SimpleCSharpApp",
+        "projectPath": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\SimpleCSharpApp\\SimpleCSharpApp.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\obj\\",
+        "outputPath": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\SimpleCSharpApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{529D1D15-2EE8-4AE4-8E78-C59F8F13A817}|Chapter3_AllProject.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter3\\chapter3_allproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529D1D15-2EE8-4AE4-8E78-C59F8F13A817}|Chapter3_AllProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79A8DA66-990A-464D-A91B-F2B16D05024F}|SimpleCSharpApp\\SimpleCSharpApp.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter3\\chapter3_allproject\\simplecsharpapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A8DA66-990A-464D-A91B-F2B16D05024F}|SimpleCSharpApp\\SimpleCSharpApp.csproj|solutionrelative:simplecsharpapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,13 +32,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\SimpleCSharpApp\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleCSharpApp\\Program.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\SimpleCSharpApp\\Program.cs",
+              "RelativeToolTip": "SimpleCSharpApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T20:48:46.711Z",
+              "WhenOpened": "2025-08-20T21:00:33.751Z",
               "EditorCaption": ""
             }
           ]
