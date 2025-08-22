@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleCSharpApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2eaaebfdf453f61492bb19daa62af672448b31a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b173918859848b03e4e8eecb7e05a1091fdc5f9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleCSharpApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleCSharpApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

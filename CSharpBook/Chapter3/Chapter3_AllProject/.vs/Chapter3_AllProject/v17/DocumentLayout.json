@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79A8DA66-990A-464D-A91B-F2B16D05024F}|SimpleCSharpApp\\SimpleCSharpApp.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter3\\chapter3_allproject\\simplecsharpapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79A8DA66-990A-464D-A91B-F2B16D05024F}|SimpleCSharpApp\\SimpleCSharpApp.csproj|solutionrelative:simplecsharpapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{444345B7-6D9D-4907-9AE9-3B01143D4A8A}|BasicDataTypes\\BasicDataTypes.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter3\\chapter3_allproject\\basicdatatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444345B7-6D9D-4907-9AE9-3B01143D4A8A}|BasicDataTypes\\BasicDataTypes.csproj|solutionrelative:basicdatatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6ACDC15-0FE2-4FC5-BE47-9F8D7416D16E}|BasicConsoleIO\\BasicConsoleIO.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter3\\chapter3_allproject\\basicconsoleio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6ACDC15-0FE2-4FC5-BE47-9F8D7416D16E}|BasicConsoleIO\\BasicConsoleIO.csproj|solutionrelative:basicconsoleio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,13 +36,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\SimpleCSharpApp\\Program.cs",
-              "RelativeDocumentMoniker": "SimpleCSharpApp\\Program.cs",
-              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\SimpleCSharpApp\\Program.cs",
-              "RelativeToolTip": "SimpleCSharpApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\BasicDataTypes\\Program.cs",
+              "RelativeDocumentMoniker": "BasicDataTypes\\Program.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\BasicDataTypes\\Program.cs",
+              "RelativeToolTip": "BasicDataTypes\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAxwBcAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T21:00:33.751Z",
+              "WhenOpened": "2025-08-22T10:28:50.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\BasicConsoleIO\\Program.cs",
+              "RelativeDocumentMoniker": "BasicConsoleIO\\Program.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\BasicConsoleIO\\Program.cs",
+              "RelativeToolTip": "BasicConsoleIO\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T10:14:15.528Z",
               "EditorCaption": ""
             }
           ]
