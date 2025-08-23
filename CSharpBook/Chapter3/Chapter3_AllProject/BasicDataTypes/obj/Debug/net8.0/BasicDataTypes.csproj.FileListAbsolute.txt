@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\BasicDataTypes\bin\Debug\net8.0\BasicDataTypes.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\BasicDataTypes\bin\Debug\net8.0\BasicDataTypes.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\BasicDataTypes\bin\Debug\net8.0\BasicDataTypes.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\BasicDataTypes\bin\Debug\net8.0\BasicDataTypes.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\BasicDataTypes\bin\Debug\net8.0\BasicDataTypes.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\BasicDataTypes\obj\Debug\net8.0\refint\BasicDataTypes.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\BasicDataTypes\obj\Debug\net8.0\BasicDataTypes.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\BasicDataTypes\obj\Debug\net8.0\ref\BasicDataTypes.dll
