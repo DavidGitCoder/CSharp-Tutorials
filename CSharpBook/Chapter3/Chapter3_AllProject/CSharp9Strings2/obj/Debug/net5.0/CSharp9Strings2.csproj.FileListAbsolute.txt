@@ -1,0 +1,16 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\CSharp9Strings2\bin\Debug\net5.0\CSharp9Strings2.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\CSharp9Strings2\bin\Debug\net5.0\CSharp9Strings2.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\CSharp9Strings2\bin\Debug\net5.0\CSharp9Strings2.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\CSharp9Strings2\bin\Debug\net5.0\CSharp9Strings2.runtimeconfig.dev.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\CSharp9Strings2\bin\Debug\net5.0\CSharp9Strings2.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\CSharp9Strings2\bin\Debug\net5.0\CSharp9Strings2.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\CSharp9Strings2\obj\Debug\net5.0\CSharp9Strings2.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\CSharp9Strings2\obj\Debug\net5.0\CSharp9Strings2.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\CSharp9Strings2\obj\Debug\net5.0\CSharp9Strings2.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\CSharp9Strings2\obj\Debug\net5.0\CSharp9Strings2.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\CSharp9Strings2\obj\Debug\net5.0\CSharp9Strings2.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\CSharp9Strings2\obj\Debug\net5.0\CSharp9Strings2.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\CSharp9Strings2\obj\Debug\net5.0\refint\CSharp9Strings2.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\CSharp9Strings2\obj\Debug\net5.0\CSharp9Strings2.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\CSharp9Strings2\obj\Debug\net5.0\CSharp9Strings2.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\CSharp9Strings2\obj\Debug\net5.0\ref\CSharp9Strings2.dll

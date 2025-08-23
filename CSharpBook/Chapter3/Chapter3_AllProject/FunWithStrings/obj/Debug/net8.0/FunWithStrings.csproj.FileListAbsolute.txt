@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\FunWithStrings\bin\Debug\net8.0\FunWithStrings.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\FunWithStrings\bin\Debug\net8.0\FunWithStrings.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\FunWithStrings\bin\Debug\net8.0\FunWithStrings.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\FunWithStrings\bin\Debug\net8.0\FunWithStrings.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\FunWithStrings\bin\Debug\net8.0\FunWithStrings.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\FunWithStrings\obj\Debug\net8.0\FunWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\FunWithStrings\obj\Debug\net8.0\FunWithStrings.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\FunWithStrings\obj\Debug\net8.0\FunWithStrings.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\FunWithStrings\obj\Debug\net8.0\FunWithStrings.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\FunWithStrings\obj\Debug\net8.0\FunWithStrings.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\FunWithStrings\obj\Debug\net8.0\FunWithStrings.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\FunWithStrings\obj\Debug\net8.0\refint\FunWithStrings.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\FunWithStrings\obj\Debug\net8.0\FunWithStrings.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\FunWithStrings\obj\Debug\net8.0\FunWithStrings.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\FunWithStrings\obj\Debug\net8.0\ref\FunWithStrings.dll

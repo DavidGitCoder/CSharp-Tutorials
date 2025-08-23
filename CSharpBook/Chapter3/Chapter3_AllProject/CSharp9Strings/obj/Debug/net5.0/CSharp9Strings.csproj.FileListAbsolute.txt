@@ -1,0 +1,5 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\CSharp9Strings\obj\Debug\net5.0\CSharp9Strings.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\CSharp9Strings\obj\Debug\net5.0\CSharp9Strings.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\CSharp9Strings\obj\Debug\net5.0\CSharp9Strings.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\CSharp9Strings\obj\Debug\net5.0\CSharp9Strings.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter3\Chapter3_AllProject\CSharp9Strings\obj\Debug\net5.0\CSharp9Strings.sourcelink.json

@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicConsoleIO", "BasicCons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicDataTypes", "BasicDataTypes\BasicDataTypes.csproj", "{444345B7-6D9D-4907-9AE9-3B01143D4A8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithStrings", "FunWithStrings\FunWithStrings.csproj", "{E7C25810-3B2D-4625-9076-9C71859F8CDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp9Strings2", "CSharp9Strings2\CSharp9Strings2.csproj", "{B05ED311-15E8-4F66-9E7C-04BD8B909C97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{444345B7-6D9D-4907-9AE9-3B01143D4A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{444345B7-6D9D-4907-9AE9-3B01143D4A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{444345B7-6D9D-4907-9AE9-3B01143D4A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7C25810-3B2D-4625-9076-9C71859F8CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C25810-3B2D-4625-9076-9C71859F8CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C25810-3B2D-4625-9076-9C71859F8CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C25810-3B2D-4625-9076-9C71859F8CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B05ED311-15E8-4F66-9E7C-04BD8B909C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05ED311-15E8-4F66-9E7C-04BD8B909C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05ED311-15E8-4F66-9E7C-04BD8B909C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05ED311-15E8-4F66-9E7C-04BD8B909C97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
