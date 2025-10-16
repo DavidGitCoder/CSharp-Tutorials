@@ -34,9 +34,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\BasicDataTypes\\Program.cs",
               "RelativeDocumentMoniker": "BasicDataTypes\\Program.cs",
-              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\BasicDataTypes\\Program.cs*",
-              "RelativeToolTip": "BasicDataTypes\\Program.cs*",
-              "ViewState": "AgIAAGwBAAAAAAAAAAAYwHgBAAAJAAAAAAAAAA==",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter3\\Chapter3_AllProject\\BasicDataTypes\\Program.cs",
+              "RelativeToolTip": "BasicDataTypes\\Program.cs",
+              "ViewState": "AgIAAFwBAAAAAAAAAAAqwHEBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T07:44:55.189Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "FunWithStrings\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T21:03:55.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-23T21:03:55.915Z"
             }
           ]
         }

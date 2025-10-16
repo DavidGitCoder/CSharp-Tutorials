@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F676EC19-206E-4A03-9572-AEC444B28B24}|Employees\\Employees.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\employees\\salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F676EC19-206E-4A03-9572-AEC444B28B24}|Employees\\Employees.csproj|solutionrelative:employees\\salesperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F676EC19-206E-4A03-9572-AEC444B28B24}|Employees\\Employees.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\employees\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F676EC19-206E-4A03-9572-AEC444B28B24}|Employees\\Employees.csproj|solutionrelative:employees\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F676EC19-206E-4A03-9572-AEC444B28B24}|Employees\\Employees.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F676EC19-206E-4A03-9572-AEC444B28B24}|Employees\\Employees.csproj|solutionrelative:employees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F676EC19-206E-4A03-9572-AEC444B28B24}|Employees\\Employees.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\employees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F676EC19-206E-4A03-9572-AEC444B28B24}|Employees\\Employees.csproj|solutionrelative:employees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F676EC19-206E-4A03-9572-AEC444B28B24}|Employees\\Employees.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\employees\\employee.core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F676EC19-206E-4A03-9572-AEC444B28B24}|Employees\\Employees.csproj|solutionrelative:employees\\employee.core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FB43FA-5382-4E5C-864B-A19120AB7F40}|RecordInheritance\\RecordInheritance.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\recordinheritance\\benefitpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0FB43FA-5382-4E5C-864B-A19120AB7F40}|RecordInheritance\\RecordInheritance.csproj|solutionrelative:recordinheritance\\benefitpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesPerson.cs",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\Employees\\SalesPerson.cs",
+              "RelativeDocumentMoniker": "Employees\\SalesPerson.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\Employees\\SalesPerson.cs*",
+              "RelativeToolTip": "Employees\\SalesPerson.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T12:19:43.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\Employees\\Manager.cs",
+              "RelativeDocumentMoniker": "Employees\\Manager.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\Employees\\Manager.cs",
+              "RelativeToolTip": "Employees\\Manager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T12:17:27.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\Employees\\Program.cs",
+              "RelativeDocumentMoniker": "Employees\\Program.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\Employees\\Program.cs",
+              "RelativeToolTip": "Employees\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T12:04:36.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BenefitPackage.cs",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\RecordInheritance\\BenefitPackage.cs",
+              "RelativeDocumentMoniker": "RecordInheritance\\BenefitPackage.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\RecordInheritance\\BenefitPackage.cs",
+              "RelativeToolTip": "RecordInheritance\\BenefitPackage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:57:00.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.Core.cs",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\Employees\\Employee.Core.cs",
+              "RelativeDocumentMoniker": "Employees\\Employee.Core.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\Employees\\Employee.Core.cs",
+              "RelativeToolTip": "Employees\\Employee.Core.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:03:59.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\Employees\\Employee.cs",
+              "RelativeDocumentMoniker": "Employees\\Employee.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\Employees\\Employee.cs",
+              "RelativeToolTip": "Employees\\Employee.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA7wBsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:03:27.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
