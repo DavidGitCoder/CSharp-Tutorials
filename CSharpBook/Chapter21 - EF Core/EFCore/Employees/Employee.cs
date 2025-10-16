@@ -35,5 +35,11 @@ internal abstract partial class Employee
         Console.WriteLine($"hireDate: {HireDate}");
 
     }
+    public override string ToString()
+    {
+        return $"[Id: {Id}, Name: {Name}, Age: {Age}, Pay: {Pay}, SSN: {SSN}, HireDate: {HireDate}, PayType: {PayType}]";
+    }
+    public override bool Equals(object obj)=>obj.ToString() == this.ToString() ;
+    public override int GetHashCode()=> SSN.GetHashCode() ;
 }
 

@@ -31,5 +31,9 @@ namespace Employees
             base.DisplayStats();
             Console.WriteLine(($"Stocks: {StockOptions}"));
         }
+        public override string ToString()
+        {
+            return base.ToString() + $"Stocks: {StockOptions}";
+        }
     }
 }

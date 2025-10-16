@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomInterfaces\bin\Debug\net8.0\CustomInterfaces.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomInterfaces\bin\Debug\net8.0\CustomInterfaces.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomInterfaces\bin\Debug\net8.0\CustomInterfaces.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomInterfaces\bin\Debug\net8.0\CustomInterfaces.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomInterfaces\bin\Debug\net8.0\CustomInterfaces.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomInterfaces\obj\Debug\net8.0\refint\CustomInterfaces.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomInterfaces\obj\Debug\net8.0\CustomInterfaces.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomInterfaces\obj\Debug\net8.0\ref\CustomInterfaces.dll
