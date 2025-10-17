@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Chapter10_Collections_Generics\\IssuesWithNonGenericCollections.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

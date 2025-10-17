@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithObservableCollections\bin\Debug\net8.0\FunWithObservableCollections.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithObservableCollections\bin\Debug\net8.0\FunWithObservableCollections.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithObservableCollections\bin\Debug\net8.0\FunWithObservableCollections.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithObservableCollections\bin\Debug\net8.0\FunWithObservableCollections.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithObservableCollections\bin\Debug\net8.0\FunWithObservableCollections.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithObservableCollections\obj\Debug\net8.0\FunWithObservableCollections.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithObservableCollections\obj\Debug\net8.0\FunWithObservableCollections.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithObservableCollections\obj\Debug\net8.0\FunWithObservableCollections.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithObservableCollections\obj\Debug\net8.0\FunWithObservableCollections.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithObservableCollections\obj\Debug\net8.0\FunWithObservableCollections.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithObservableCollections\obj\Debug\net8.0\FunWithObservableCollections.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithObservableCollections\obj\Debug\net8.0\refint\FunWithObservableCollections.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithObservableCollections\obj\Debug\net8.0\FunWithObservableCollections.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithObservableCollections\obj\Debug\net8.0\FunWithObservableCollections.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithObservableCollections\obj\Debug\net8.0\ref\FunWithObservableCollections.dll

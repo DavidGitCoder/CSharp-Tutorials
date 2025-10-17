@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\MiInterfaceHierarchy\bin\Debug\net8.0\MiInterfaceHierarchy.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\MiInterfaceHierarchy\bin\Debug\net8.0\MiInterfaceHierarchy.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\MiInterfaceHierarchy\bin\Debug\net8.0\MiInterfaceHierarchy.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\MiInterfaceHierarchy\bin\Debug\net8.0\MiInterfaceHierarchy.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\MiInterfaceHierarchy\bin\Debug\net8.0\MiInterfaceHierarchy.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\MiInterfaceHierarchy\obj\Debug\net8.0\MiInterfaceHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\MiInterfaceHierarchy\obj\Debug\net8.0\MiInterfaceHierarchy.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\MiInterfaceHierarchy\obj\Debug\net8.0\MiInterfaceHierarchy.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\MiInterfaceHierarchy\obj\Debug\net8.0\MiInterfaceHierarchy.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\MiInterfaceHierarchy\obj\Debug\net8.0\MiInterfaceHierarchy.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\MiInterfaceHierarchy\obj\Debug\net8.0\MiInterfaceHierarchy.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\MiInterfaceHierarchy\obj\Debug\net8.0\refint\MiInterfaceHierarchy.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\MiInterfaceHierarchy\obj\Debug\net8.0\MiInterfaceHierarchy.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\MiInterfaceHierarchy\obj\Debug\net8.0\MiInterfaceHierarchy.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\MiInterfaceHierarchy\obj\Debug\net8.0\ref\MiInterfaceHierarchy.dll

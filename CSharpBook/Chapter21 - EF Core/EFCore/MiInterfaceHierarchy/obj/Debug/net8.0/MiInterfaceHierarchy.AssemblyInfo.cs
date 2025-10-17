@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiInterfaceHierarchy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3f46c70ecaad02c92939765368648cfac91d63b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8afcdc1e8967962f035eabfb221051e499613eff")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiInterfaceHierarchy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiInterfaceHierarchy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

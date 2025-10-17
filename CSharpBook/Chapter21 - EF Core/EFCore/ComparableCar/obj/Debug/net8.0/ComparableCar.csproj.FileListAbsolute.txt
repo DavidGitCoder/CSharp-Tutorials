@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\ComparableCar\obj\Debug\net8.0\ComparableCar.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\ComparableCar\obj\Debug\net8.0\ComparableCar.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\ComparableCar\obj\Debug\net8.0\ComparableCar.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\ComparableCar\obj\Debug\net8.0\ComparableCar.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\ComparableCar\obj\Debug\net8.0\ComparableCar.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\ComparableCar\bin\Debug\net8.0\ComparableCar.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\ComparableCar\bin\Debug\net8.0\ComparableCar.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\ComparableCar\bin\Debug\net8.0\ComparableCar.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\ComparableCar\bin\Debug\net8.0\ComparableCar.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\ComparableCar\bin\Debug\net8.0\ComparableCar.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\ComparableCar\obj\Debug\net8.0\ComparableCar.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\ComparableCar\obj\Debug\net8.0\refint\ComparableCar.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\ComparableCar\obj\Debug\net8.0\ComparableCar.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\ComparableCar\obj\Debug\net8.0\ComparableCar.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\ComparableCar\obj\Debug\net8.0\ref\ComparableCar.dll

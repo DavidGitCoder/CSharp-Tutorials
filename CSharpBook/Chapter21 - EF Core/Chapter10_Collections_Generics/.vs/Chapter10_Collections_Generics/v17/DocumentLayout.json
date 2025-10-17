@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\Chapter10_Collections_Generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF6438C-E8D7-4CD4-95D9-40B00DF32162}|SimpleIndexer\\SimpleIndexer.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\chapter10_collections_generics\\simpleindexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF6438C-E8D7-4CD4-95D9-40B00DF32162}|SimpleIndexer\\SimpleIndexer.csproj|solutionrelative:simpleindexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF6438C-E8D7-4CD4-95D9-40B00DF32162}|SimpleIndexer\\SimpleIndexer.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\chapter10_collections_generics\\simpleindexer\\personcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF6438C-E8D7-4CD4-95D9-40B00DF32162}|SimpleIndexer\\SimpleIndexer.csproj|solutionrelative:simpleindexer\\personcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\Chapter10_Collections_Generics\\SimpleIndexer\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleIndexer\\Program.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\Chapter10_Collections_Generics\\SimpleIndexer\\Program.cs*",
+              "RelativeToolTip": "SimpleIndexer\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:18:19.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonCollection.cs",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\Chapter10_Collections_Generics\\SimpleIndexer\\PersonCollection.cs",
+              "RelativeDocumentMoniker": "SimpleIndexer\\PersonCollection.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\Chapter10_Collections_Generics\\SimpleIndexer\\PersonCollection.cs",
+              "RelativeToolTip": "SimpleIndexer\\PersonCollection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvx8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:18:08.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

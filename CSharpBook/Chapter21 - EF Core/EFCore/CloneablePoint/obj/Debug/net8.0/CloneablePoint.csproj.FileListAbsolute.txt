@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CloneablePoint\bin\Debug\net8.0\CloneablePoint.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CloneablePoint\bin\Debug\net8.0\CloneablePoint.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CloneablePoint\bin\Debug\net8.0\CloneablePoint.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CloneablePoint\bin\Debug\net8.0\CloneablePoint.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CloneablePoint\bin\Debug\net8.0\CloneablePoint.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CloneablePoint\obj\Debug\net8.0\CloneablePoint.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CloneablePoint\obj\Debug\net8.0\CloneablePoint.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CloneablePoint\obj\Debug\net8.0\CloneablePoint.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CloneablePoint\obj\Debug\net8.0\CloneablePoint.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CloneablePoint\obj\Debug\net8.0\CloneablePoint.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CloneablePoint\obj\Debug\net8.0\CloneablePoint.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CloneablePoint\obj\Debug\net8.0\refint\CloneablePoint.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CloneablePoint\obj\Debug\net8.0\CloneablePoint.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CloneablePoint\obj\Debug\net8.0\CloneablePoint.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CloneablePoint\obj\Debug\net8.0\ref\CloneablePoint.dll

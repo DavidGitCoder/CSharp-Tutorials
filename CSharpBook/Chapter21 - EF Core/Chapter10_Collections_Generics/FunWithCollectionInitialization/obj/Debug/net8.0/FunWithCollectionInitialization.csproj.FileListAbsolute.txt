@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithCollectionInitialization\bin\Debug\net8.0\FunWithCollectionInitialization.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithCollectionInitialization\bin\Debug\net8.0\FunWithCollectionInitialization.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithCollectionInitialization\bin\Debug\net8.0\FunWithCollectionInitialization.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithCollectionInitialization\bin\Debug\net8.0\FunWithCollectionInitialization.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithCollectionInitialization\bin\Debug\net8.0\FunWithCollectionInitialization.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithCollectionInitialization\obj\Debug\net8.0\FunWithCollectionInitialization.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithCollectionInitialization\obj\Debug\net8.0\FunWithCollectionInitialization.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithCollectionInitialization\obj\Debug\net8.0\FunWithCollectionInitialization.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithCollectionInitialization\obj\Debug\net8.0\FunWithCollectionInitialization.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithCollectionInitialization\obj\Debug\net8.0\FunWithCollectionInitialization.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithCollectionInitialization\obj\Debug\net8.0\FunWithCollectionInitialization.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithCollectionInitialization\obj\Debug\net8.0\refint\FunWithCollectionInitialization.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithCollectionInitialization\obj\Debug\net8.0\FunWithCollectionInitialization.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithCollectionInitialization\obj\Debug\net8.0\FunWithCollectionInitialization.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithCollectionInitialization\obj\Debug\net8.0\ref\FunWithCollectionInitialization.dll

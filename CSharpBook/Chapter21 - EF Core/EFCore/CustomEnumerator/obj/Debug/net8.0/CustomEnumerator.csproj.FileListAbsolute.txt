@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumerator\bin\Debug\net8.0\CustomEnumerator.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumerator\bin\Debug\net8.0\CustomEnumerator.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumerator\bin\Debug\net8.0\CustomEnumerator.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumerator\bin\Debug\net8.0\CustomEnumerator.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumerator\bin\Debug\net8.0\CustomEnumerator.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumerator\obj\Debug\net8.0\refint\CustomEnumerator.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumerator\obj\Debug\net8.0\CustomEnumerator.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumerator\obj\Debug\net8.0\ref\CustomEnumerator.dll

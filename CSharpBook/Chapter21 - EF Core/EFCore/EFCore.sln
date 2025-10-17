@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLot", "EFCore\AutoLot.csproj", "{3E8AB98C-8ADA-4967-BD48-EDEC10F7F366}"
 EndProject
@@ -20,6 +20,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceHierarchy", "InterfaceHierarchy\InterfaceHierarchy.csproj", "{D27F4035-00A6-44A3-97A0-E17B4066F8F6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiInterfaceHierarchy", "MiInterfaceHierarchy\MiInterfaceHierarchy.csproj", "{295C935A-141D-4DA9-826A-B5AD7482F7F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomEnumerator", "CustomEnumerator\CustomEnumerator.csproj", "{99442DDD-A795-4935-8970-795CBE423048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomEnumeratorWithYield", "CustomEnumeratorWithYield\CustomEnumeratorWithYield.csproj", "{138CBCA8-D16F-4821-86C0-4140FAD1A9BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloneablePoint", "CloneablePoint\CloneablePoint.csproj", "{7F5BC806-1AE7-4BEB-9173-0DCFB8BC728F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparableCar", "ComparableCar\ComparableCar.csproj", "{07DB5720-85BF-4D8F-8943-A562823CCEA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +71,22 @@ Global
 		{295C935A-141D-4DA9-826A-B5AD7482F7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{295C935A-141D-4DA9-826A-B5AD7482F7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{295C935A-141D-4DA9-826A-B5AD7482F7F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99442DDD-A795-4935-8970-795CBE423048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99442DDD-A795-4935-8970-795CBE423048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99442DDD-A795-4935-8970-795CBE423048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99442DDD-A795-4935-8970-795CBE423048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{138CBCA8-D16F-4821-86C0-4140FAD1A9BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138CBCA8-D16F-4821-86C0-4140FAD1A9BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138CBCA8-D16F-4821-86C0-4140FAD1A9BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138CBCA8-D16F-4821-86C0-4140FAD1A9BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F5BC806-1AE7-4BEB-9173-0DCFB8BC728F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F5BC806-1AE7-4BEB-9173-0DCFB8BC728F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F5BC806-1AE7-4BEB-9173-0DCFB8BC728F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F5BC806-1AE7-4BEB-9173-0DCFB8BC728F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07DB5720-85BF-4D8F-8943-A562823CCEA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07DB5720-85BF-4D8F-8943-A562823CCEA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07DB5720-85BF-4D8F-8943-A562823CCEA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07DB5720-85BF-4D8F-8943-A562823CCEA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

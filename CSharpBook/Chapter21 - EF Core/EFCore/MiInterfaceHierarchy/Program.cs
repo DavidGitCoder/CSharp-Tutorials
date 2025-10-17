@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int[] arr = { 10, 20, 30, 40 };
+foreach(int item in arr)
+{
+    Console.WriteLine(item);
+}

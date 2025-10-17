@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\Chapter10_Collections_Generics\bin\Debug\net8.0\IssuesWithNonGenericCollections.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\Chapter10_Collections_Generics\bin\Debug\net8.0\IssuesWithNonGenericCollections.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\Chapter10_Collections_Generics\bin\Debug\net8.0\IssuesWithNonGenericCollections.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\Chapter10_Collections_Generics\bin\Debug\net8.0\IssuesWithNonGenericCollections.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\Chapter10_Collections_Generics\bin\Debug\net8.0\IssuesWithNonGenericCollections.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\Chapter10_Collections_Generics\obj\Debug\net8.0\IssuesWithNonGenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\Chapter10_Collections_Generics\obj\Debug\net8.0\IssuesWithNonGenericCollections.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\Chapter10_Collections_Generics\obj\Debug\net8.0\IssuesWithNonGenericCollections.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\Chapter10_Collections_Generics\obj\Debug\net8.0\IssuesWithNonGenericCollections.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\Chapter10_Collections_Generics\obj\Debug\net8.0\IssuesWithNonGenericCollections.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\Chapter10_Collections_Generics\obj\Debug\net8.0\IssuesWithNonGenericCollections.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\Chapter10_Collections_Generics\obj\Debug\net8.0\refint\IssuesWithNonGenericCollections.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\Chapter10_Collections_Generics\obj\Debug\net8.0\IssuesWithNonGenericCollections.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\Chapter10_Collections_Generics\obj\Debug\net8.0\IssuesWithNonGenericCollections.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\Chapter10_Collections_Generics\obj\Debug\net8.0\ref\IssuesWithNonGenericCollections.dll

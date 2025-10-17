@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\GenericPoint\bin\Debug\net8.0\GenericPoint.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\GenericPoint\bin\Debug\net8.0\GenericPoint.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\GenericPoint\bin\Debug\net8.0\GenericPoint.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\GenericPoint\bin\Debug\net8.0\GenericPoint.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\GenericPoint\bin\Debug\net8.0\GenericPoint.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\GenericPoint\obj\Debug\net8.0\GenericPoint.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\GenericPoint\obj\Debug\net8.0\GenericPoint.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\GenericPoint\obj\Debug\net8.0\GenericPoint.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\GenericPoint\obj\Debug\net8.0\GenericPoint.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\GenericPoint\obj\Debug\net8.0\GenericPoint.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\GenericPoint\obj\Debug\net8.0\GenericPoint.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\GenericPoint\obj\Debug\net8.0\refint\GenericPoint.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\GenericPoint\obj\Debug\net8.0\GenericPoint.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\GenericPoint\obj\Debug\net8.0\GenericPoint.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\GenericPoint\obj\Debug\net8.0\ref\GenericPoint.dll

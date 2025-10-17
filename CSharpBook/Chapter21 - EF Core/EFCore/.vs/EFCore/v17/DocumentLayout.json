@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\miinterfacehierarchy\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|solutionrelative:miinterfacehierarchy\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07DB5720-85BF-4D8F-8943-A562823CCEA2}|ComparableCar\\ComparableCar.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\comparablecar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DB5720-85BF-4D8F-8943-A562823CCEA2}|ComparableCar\\ComparableCar.csproj|solutionrelative:comparablecar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\miinterfacehierarchy\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|solutionrelative:miinterfacehierarchy\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+      "AbsoluteMoniker": "D:0:0:{07DB5720-85BF-4D8F-8943-A562823CCEA2}|ComparableCar\\ComparableCar.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\comparablecar\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DB5720-85BF-4D8F-8943-A562823CCEA2}|ComparableCar\\ComparableCar.csproj|solutionrelative:comparablecar\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\miinterfacehierarchy\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|solutionrelative:miinterfacehierarchy\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\miinterfacehierarchy\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|solutionrelative:miinterfacehierarchy\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\miinterfacehierarchy\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|solutionrelative:miinterfacehierarchy\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\miinterfacehierarchy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|solutionrelative:miinterfacehierarchy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07DB5720-85BF-4D8F-8943-A562823CCEA2}|ComparableCar\\ComparableCar.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\comparablecar\\petnamecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07DB5720-85BF-4D8F-8943-A562823CCEA2}|ComparableCar\\ComparableCar.csproj|solutionrelative:comparablecar\\petnamecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,83 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Rectangle.cs",
-              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\Rectangle.cs",
-              "RelativeDocumentMoniker": "MiInterfaceHierarchy\\Rectangle.cs",
-              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\Rectangle.cs",
-              "RelativeToolTip": "MiInterfaceHierarchy\\Rectangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "PetNameComparer.cs",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\ComparableCar\\PetNameComparer.cs",
+              "RelativeDocumentMoniker": "ComparableCar\\PetNameComparer.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\ComparableCar\\PetNameComparer.cs",
+              "RelativeToolTip": "ComparableCar\\PetNameComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T18:35:07.358Z",
+              "WhenOpened": "2025-10-17T09:55:28.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ClassDiagram1.cd",
-              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\ClassDiagram1.cd",
-              "RelativeDocumentMoniker": "MiInterfaceHierarchy\\ClassDiagram1.cd",
-              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\ClassDiagram1.cd",
-              "RelativeToolTip": "MiInterfaceHierarchy\\ClassDiagram1.cd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2025-10-16T18:33:26.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IShape.cs",
-              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\IShape.cs",
-              "RelativeDocumentMoniker": "MiInterfaceHierarchy\\IShape.cs",
-              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\IShape.cs",
-              "RelativeToolTip": "MiInterfaceHierarchy\\IShape.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\ComparableCar\\Car.cs",
+              "RelativeDocumentMoniker": "ComparableCar\\Car.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\ComparableCar\\Car.cs",
+              "RelativeToolTip": "ComparableCar\\Car.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T18:31:27.859Z",
+              "WhenOpened": "2025-10-17T09:04:00.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IPrintable.cs",
-              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\IPrintable.cs",
-              "RelativeDocumentMoniker": "MiInterfaceHierarchy\\IPrintable.cs",
-              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\IPrintable.cs",
-              "RelativeToolTip": "MiInterfaceHierarchy\\IPrintable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T18:31:17.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IDrawable.cs",
-              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\IDrawable.cs",
-              "RelativeDocumentMoniker": "MiInterfaceHierarchy\\IDrawable.cs",
-              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\IDrawable.cs",
-              "RelativeToolTip": "MiInterfaceHierarchy\\IDrawable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T18:31:06.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\Program.cs",
-              "RelativeDocumentMoniker": "MiInterfaceHierarchy\\Program.cs",
-              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\Program.cs",
-              "RelativeToolTip": "MiInterfaceHierarchy\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\ComparableCar\\Program.cs",
+              "RelativeDocumentMoniker": "ComparableCar\\Program.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\ComparableCar\\Program.cs",
+              "RelativeToolTip": "ComparableCar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T18:30:27.789Z",
+              "WhenOpened": "2025-10-17T09:03:22.7Z",
               "EditorCaption": ""
             },
             {

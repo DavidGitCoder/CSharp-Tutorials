@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumeratorWithYield\bin\Debug\net8.0\CustomEnumeratorWithYield.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumeratorWithYield\bin\Debug\net8.0\CustomEnumeratorWithYield.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumeratorWithYield\bin\Debug\net8.0\CustomEnumeratorWithYield.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumeratorWithYield\bin\Debug\net8.0\CustomEnumeratorWithYield.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumeratorWithYield\bin\Debug\net8.0\CustomEnumeratorWithYield.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumeratorWithYield\obj\Debug\net8.0\refint\CustomEnumeratorWithYield.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumeratorWithYield\obj\Debug\net8.0\CustomEnumeratorWithYield.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\CustomEnumeratorWithYield\obj\Debug\net8.0\ref\CustomEnumeratorWithYield.dll

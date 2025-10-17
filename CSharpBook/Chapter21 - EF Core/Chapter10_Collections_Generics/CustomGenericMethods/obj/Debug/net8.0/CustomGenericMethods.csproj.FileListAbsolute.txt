@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CustomGenericMethods\bin\Debug\net8.0\CustomGenericMethods.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CustomGenericMethods\bin\Debug\net8.0\CustomGenericMethods.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CustomGenericMethods\bin\Debug\net8.0\CustomGenericMethods.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CustomGenericMethods\bin\Debug\net8.0\CustomGenericMethods.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CustomGenericMethods\bin\Debug\net8.0\CustomGenericMethods.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CustomGenericMethods\obj\Debug\net8.0\CustomGenericMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CustomGenericMethods\obj\Debug\net8.0\CustomGenericMethods.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CustomGenericMethods\obj\Debug\net8.0\CustomGenericMethods.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CustomGenericMethods\obj\Debug\net8.0\CustomGenericMethods.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CustomGenericMethods\obj\Debug\net8.0\CustomGenericMethods.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CustomGenericMethods\obj\Debug\net8.0\CustomGenericMethods.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CustomGenericMethods\obj\Debug\net8.0\refint\CustomGenericMethods.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CustomGenericMethods\obj\Debug\net8.0\CustomGenericMethods.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CustomGenericMethods\obj\Debug\net8.0\CustomGenericMethods.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CustomGenericMethods\obj\Debug\net8.0\ref\CustomGenericMethods.dll

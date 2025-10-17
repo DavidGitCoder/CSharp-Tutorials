@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithGenericCollections\bin\Debug\net8.0\FunWithGenericCollections.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithGenericCollections\bin\Debug\net8.0\FunWithGenericCollections.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithGenericCollections\bin\Debug\net8.0\FunWithGenericCollections.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithGenericCollections\bin\Debug\net8.0\FunWithGenericCollections.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithGenericCollections\bin\Debug\net8.0\FunWithGenericCollections.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithGenericCollections\obj\Debug\net8.0\FunWithGenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithGenericCollections\obj\Debug\net8.0\FunWithGenericCollections.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithGenericCollections\obj\Debug\net8.0\FunWithGenericCollections.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithGenericCollections\obj\Debug\net8.0\FunWithGenericCollections.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithGenericCollections\obj\Debug\net8.0\FunWithGenericCollections.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithGenericCollections\obj\Debug\net8.0\FunWithGenericCollections.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithGenericCollections\obj\Debug\net8.0\refint\FunWithGenericCollections.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithGenericCollections\obj\Debug\net8.0\FunWithGenericCollections.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithGenericCollections\obj\Debug\net8.0\FunWithGenericCollections.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\FunWithGenericCollections\obj\Debug\net8.0\ref\FunWithGenericCollections.dll
