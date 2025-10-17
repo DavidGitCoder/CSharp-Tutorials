@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceHierarchy\obj\Debug\net8.0\InterfaceHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceHierarchy\obj\Debug\net8.0\InterfaceHierarchy.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceHierarchy\obj\Debug\net8.0\InterfaceHierarchy.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceHierarchy\obj\Debug\net8.0\InterfaceHierarchy.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceHierarchy\obj\Debug\net8.0\InterfaceHierarchy.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceHierarchy\bin\Debug\net8.0\InterfaceHierarchy.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceHierarchy\bin\Debug\net8.0\InterfaceHierarchy.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceHierarchy\bin\Debug\net8.0\InterfaceHierarchy.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceHierarchy\bin\Debug\net8.0\InterfaceHierarchy.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceHierarchy\bin\Debug\net8.0\InterfaceHierarchy.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceHierarchy\obj\Debug\net8.0\InterfaceHierarchy.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceHierarchy\obj\Debug\net8.0\refint\InterfaceHierarchy.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceHierarchy\obj\Debug\net8.0\InterfaceHierarchy.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceHierarchy\obj\Debug\net8.0\InterfaceHierarchy.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceHierarchy\obj\Debug\net8.0\ref\InterfaceHierarchy.dll

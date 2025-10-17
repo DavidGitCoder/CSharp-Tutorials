@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceNameClash\bin\Debug\net8.0\InterfaceNameClash.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceNameClash\bin\Debug\net8.0\InterfaceNameClash.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceNameClash\bin\Debug\net8.0\InterfaceNameClash.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceNameClash\bin\Debug\net8.0\InterfaceNameClash.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceNameClash\bin\Debug\net8.0\InterfaceNameClash.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceNameClash\obj\Debug\net8.0\InterfaceNameClash.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceNameClash\obj\Debug\net8.0\InterfaceNameClash.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceNameClash\obj\Debug\net8.0\InterfaceNameClash.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceNameClash\obj\Debug\net8.0\InterfaceNameClash.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceNameClash\obj\Debug\net8.0\InterfaceNameClash.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceNameClash\obj\Debug\net8.0\InterfaceNameClash.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceNameClash\obj\Debug\net8.0\refint\InterfaceNameClash.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceNameClash\obj\Debug\net8.0\InterfaceNameClash.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceNameClash\obj\Debug\net8.0\InterfaceNameClash.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\EFCore\InterfaceNameClash\obj\Debug\net8.0\ref\InterfaceNameClash.dll

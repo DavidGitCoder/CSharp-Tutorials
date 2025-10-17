@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB3C17B1-0575-4DCB-AD0C-6888B816D88A}|InterfaceNameClash\\InterfaceNameClash.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\interfacenameclash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB3C17B1-0575-4DCB-AD0C-6888B816D88A}|InterfaceNameClash\\InterfaceNameClash.csproj|solutionrelative:interfacenameclash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\miinterfacehierarchy\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|solutionrelative:miinterfacehierarchy\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53686AAB-4EE3-408F-84AA-96FC31453F3A}|CustomInterfaces\\CustomInterfaces.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\custominterfaces\\pointytestclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53686AAB-4EE3-408F-84AA-96FC31453F3A}|CustomInterfaces\\CustomInterfaces.csproj|solutionrelative:custominterfaces\\pointytestclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\miinterfacehierarchy\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|solutionrelative:miinterfacehierarchy\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53686AAB-4EE3-408F-84AA-96FC31453F3A}|CustomInterfaces\\CustomInterfaces.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\custominterfaces\\iregularpointy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53686AAB-4EE3-408F-84AA-96FC31453F3A}|CustomInterfaces\\CustomInterfaces.csproj|solutionrelative:custominterfaces\\iregularpointy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\miinterfacehierarchy\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|solutionrelative:miinterfacehierarchy\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53686AAB-4EE3-408F-84AA-96FC31453F3A}|CustomInterfaces\\CustomInterfaces.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\custominterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53686AAB-4EE3-408F-84AA-96FC31453F3A}|CustomInterfaces\\CustomInterfaces.csproj|solutionrelative:custominterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\miinterfacehierarchy\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|solutionrelative:miinterfacehierarchy\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53686AAB-4EE3-408F-84AA-96FC31453F3A}|CustomInterfaces\\CustomInterfaces.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\custominterfaces\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53686AAB-4EE3-408F-84AA-96FC31453F3A}|CustomInterfaces\\CustomInterfaces.csproj|solutionrelative:custominterfaces\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\miinterfacehierarchy\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|solutionrelative:miinterfacehierarchy\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\efcore\\miinterfacehierarchy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295C935A-141D-4DA9-826A-B5AD7482F7F4}|MiInterfaceHierarchy\\MiInterfaceHierarchy.csproj|solutionrelative:miinterfacehierarchy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +39,78 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\InterfaceNameClash\\Program.cs",
-              "RelativeDocumentMoniker": "InterfaceNameClash\\Program.cs",
-              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\InterfaceNameClash\\Program.cs",
-              "RelativeToolTip": "InterfaceNameClash\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\Rectangle.cs",
+              "RelativeDocumentMoniker": "MiInterfaceHierarchy\\Rectangle.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\Rectangle.cs",
+              "RelativeToolTip": "MiInterfaceHierarchy\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T17:58:10.694Z",
+              "WhenOpened": "2025-10-16T18:35:07.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PointyTestClass.cs",
-              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\CustomInterfaces\\PointyTestClass.cs",
-              "RelativeDocumentMoniker": "CustomInterfaces\\PointyTestClass.cs",
-              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\CustomInterfaces\\PointyTestClass.cs",
-              "RelativeToolTip": "CustomInterfaces\\PointyTestClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T17:54:55.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Square.cs",
-              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\CustomInterfaces\\Square.cs",
-              "RelativeDocumentMoniker": "CustomInterfaces\\Square.cs",
-              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\CustomInterfaces\\Square.cs",
-              "RelativeToolTip": "CustomInterfaces\\Square.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T17:27:23.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IRegularPointy.cs",
-              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\CustomInterfaces\\IRegularPointy.cs",
-              "RelativeDocumentMoniker": "CustomInterfaces\\IRegularPointy.cs",
-              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\CustomInterfaces\\IRegularPointy.cs",
-              "RelativeToolTip": "CustomInterfaces\\IRegularPointy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T17:25:04.139Z",
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "MiInterfaceHierarchy\\ClassDiagram1.cd",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\ClassDiagram1.cd",
+              "RelativeToolTip": "MiInterfaceHierarchy\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-10-16T18:33:26.72Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\CustomInterfaces\\Program.cs",
-              "RelativeDocumentMoniker": "CustomInterfaces\\Program.cs",
-              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\CustomInterfaces\\Program.cs",
-              "RelativeToolTip": "CustomInterfaces\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Title": "IShape.cs",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\IShape.cs",
+              "RelativeDocumentMoniker": "MiInterfaceHierarchy\\IShape.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\IShape.cs",
+              "RelativeToolTip": "MiInterfaceHierarchy\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T16:26:30.441Z",
+              "WhenOpened": "2025-10-16T18:31:27.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\IPrintable.cs",
+              "RelativeDocumentMoniker": "MiInterfaceHierarchy\\IPrintable.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\IPrintable.cs",
+              "RelativeToolTip": "MiInterfaceHierarchy\\IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:31:17.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDrawable.cs",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\IDrawable.cs",
+              "RelativeDocumentMoniker": "MiInterfaceHierarchy\\IDrawable.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\IDrawable.cs",
+              "RelativeToolTip": "MiInterfaceHierarchy\\IDrawable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:31:06.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\Program.cs",
+              "RelativeDocumentMoniker": "MiInterfaceHierarchy\\Program.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\EFCore\\MiInterfaceHierarchy\\Program.cs",
+              "RelativeToolTip": "MiInterfaceHierarchy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:30:27.789Z",
               "EditorCaption": ""
             },
             {
