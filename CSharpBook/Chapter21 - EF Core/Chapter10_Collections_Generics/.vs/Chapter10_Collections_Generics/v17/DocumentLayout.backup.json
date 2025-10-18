@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\Chapter10_Collections_Generics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A5B1EDE-25ED-43EA-813C-7338C131F161}|LambdaExpressions\\LambdaExpressions.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\chapter10_collections_generics\\lambdaexpressions\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A5B1EDE-25ED-43EA-813C-7338C131F161}|LambdaExpressions\\LambdaExpressions.csproj|solutionrelative:lambdaexpressions\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EF09B2B-D981-4532-85CB-B4AD6032D7AE}|CarEventsWithLambdas\\CarEventsWithLambdas.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\chapter10_collections_generics\\careventswithlambdas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF09B2B-D981-4532-85CB-B4AD6032D7AE}|CarEventsWithLambdas\\CarEventsWithLambdas.csproj|solutionrelative:careventswithlambdas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A5B1EDE-25ED-43EA-813C-7338C131F161}|LambdaExpressions\\LambdaExpressions.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\chapter10_collections_generics\\lambdaexpressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A5B1EDE-25ED-43EA-813C-7338C131F161}|LambdaExpressions\\LambdaExpressions.csproj|solutionrelative:lambdaexpressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EF09B2B-D981-4532-85CB-B4AD6032D7AE}|CarEventsWithLambdas\\CarEventsWithLambdas.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\chapter10_collections_generics\\careventswithlambdas\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF09B2B-D981-4532-85CB-B4AD6032D7AE}|CarEventsWithLambdas\\CarEventsWithLambdas.csproj|solutionrelative:careventswithlambdas\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A5B1EDE-25ED-43EA-813C-7338C131F161}|LambdaExpressions\\LambdaExpressions.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\chapter10_collections_generics\\lambdaexpressions\\careventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A5B1EDE-25ED-43EA-813C-7338C131F161}|LambdaExpressions\\LambdaExpressions.csproj|solutionrelative:lambdaexpressions\\careventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EF09B2B-D981-4532-85CB-B4AD6032D7AE}|CarEventsWithLambdas\\CarEventsWithLambdas.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter21 - ef core\\chapter10_collections_generics\\careventswithlambdas\\careventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF09B2B-D981-4532-85CB-B4AD6032D7AE}|CarEventsWithLambdas\\CarEventsWithLambdas.csproj|solutionrelative:careventswithlambdas\\careventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CarEventArgs.cs",
-              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\Chapter10_Collections_Generics\\LambdaExpressions\\CarEventArgs.cs",
-              "RelativeDocumentMoniker": "LambdaExpressions\\CarEventArgs.cs",
-              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\Chapter10_Collections_Generics\\LambdaExpressions\\CarEventArgs.cs",
-              "RelativeToolTip": "LambdaExpressions\\CarEventArgs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\Chapter10_Collections_Generics\\CarEventsWithLambdas\\Program.cs",
+              "RelativeDocumentMoniker": "CarEventsWithLambdas\\Program.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\Chapter10_Collections_Generics\\CarEventsWithLambdas\\Program.cs*",
+              "RelativeToolTip": "CarEventsWithLambdas\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T17:06:09.031Z",
+              "WhenOpened": "2025-10-18T17:08:02.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Car.cs",
-              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\Chapter10_Collections_Generics\\LambdaExpressions\\Car.cs",
-              "RelativeDocumentMoniker": "LambdaExpressions\\Car.cs",
-              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\Chapter10_Collections_Generics\\LambdaExpressions\\Car.cs",
-              "RelativeToolTip": "LambdaExpressions\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CarEventArgs.cs",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\Chapter10_Collections_Generics\\CarEventsWithLambdas\\CarEventArgs.cs",
+              "RelativeDocumentMoniker": "CarEventsWithLambdas\\CarEventArgs.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\Chapter10_Collections_Generics\\CarEventsWithLambdas\\CarEventArgs.cs",
+              "RelativeToolTip": "CarEventsWithLambdas\\CarEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T17:06:02.143Z",
+              "WhenOpened": "2025-10-18T17:07:49.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\Chapter10_Collections_Generics\\LambdaExpressions\\Program.cs",
-              "RelativeDocumentMoniker": "LambdaExpressions\\Program.cs",
-              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\Chapter10_Collections_Generics\\LambdaExpressions\\Program.cs",
-              "RelativeToolTip": "LambdaExpressions\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Title": "Car.cs",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\Chapter10_Collections_Generics\\CarEventsWithLambdas\\Car.cs",
+              "RelativeDocumentMoniker": "CarEventsWithLambdas\\Car.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter21 - EF Core\\Chapter10_Collections_Generics\\CarEventsWithLambdas\\Car.cs",
+              "RelativeToolTip": "CarEventsWithLambdas\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T15:41:00.374Z",
+              "WhenOpened": "2025-10-18T17:07:26.36Z",
               "EditorCaption": ""
             },
             {
