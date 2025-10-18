@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\PublicDelegateProblem\bin\Debug\net8.0\PublicDelegateProblem.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\PublicDelegateProblem\bin\Debug\net8.0\PublicDelegateProblem.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\PublicDelegateProblem\bin\Debug\net8.0\PublicDelegateProblem.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\PublicDelegateProblem\bin\Debug\net8.0\PublicDelegateProblem.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\PublicDelegateProblem\bin\Debug\net8.0\PublicDelegateProblem.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\PublicDelegateProblem\obj\Debug\net8.0\refint\PublicDelegateProblem.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\PublicDelegateProblem\obj\Debug\net8.0\PublicDelegateProblem.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\PublicDelegateProblem\obj\Debug\net8.0\ref\PublicDelegateProblem.dll

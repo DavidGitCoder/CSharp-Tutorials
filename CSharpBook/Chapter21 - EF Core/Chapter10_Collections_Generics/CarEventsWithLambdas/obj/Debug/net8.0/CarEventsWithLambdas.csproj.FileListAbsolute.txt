@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CarEventsWithLambdas\bin\Debug\net8.0\CarEventsWithLambdas.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CarEventsWithLambdas\bin\Debug\net8.0\CarEventsWithLambdas.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CarEventsWithLambdas\bin\Debug\net8.0\CarEventsWithLambdas.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CarEventsWithLambdas\bin\Debug\net8.0\CarEventsWithLambdas.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CarEventsWithLambdas\bin\Debug\net8.0\CarEventsWithLambdas.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CarEventsWithLambdas\obj\Debug\net8.0\CarEventsWithLambdas.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CarEventsWithLambdas\obj\Debug\net8.0\CarEventsWithLambdas.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CarEventsWithLambdas\obj\Debug\net8.0\CarEventsWithLambdas.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CarEventsWithLambdas\obj\Debug\net8.0\CarEventsWithLambdas.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CarEventsWithLambdas\obj\Debug\net8.0\CarEventsWithLambdas.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CarEventsWithLambdas\obj\Debug\net8.0\CarEventsWithLambdas.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CarEventsWithLambdas\obj\Debug\net8.0\refint\CarEventsWithLambdas.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CarEventsWithLambdas\obj\Debug\net8.0\CarEventsWithLambdas.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CarEventsWithLambdas\obj\Debug\net8.0\CarEventsWithLambdas.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\CarEventsWithLambdas\obj\Debug\net8.0\ref\CarEventsWithLambdas.dll

@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ActionAndFuncDelegates\bin\Debug\net8.0\ActionAndFuncDelegates.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ActionAndFuncDelegates\bin\Debug\net8.0\ActionAndFuncDelegates.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ActionAndFuncDelegates\bin\Debug\net8.0\ActionAndFuncDelegates.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ActionAndFuncDelegates\bin\Debug\net8.0\ActionAndFuncDelegates.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ActionAndFuncDelegates\bin\Debug\net8.0\ActionAndFuncDelegates.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ActionAndFuncDelegates\obj\Debug\net8.0\ActionAndFuncDelegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ActionAndFuncDelegates\obj\Debug\net8.0\ActionAndFuncDelegates.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ActionAndFuncDelegates\obj\Debug\net8.0\ActionAndFuncDelegates.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ActionAndFuncDelegates\obj\Debug\net8.0\ActionAndFuncDelegates.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ActionAndFuncDelegates\obj\Debug\net8.0\ActionAndFuncDelegates.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ActionAndFuncDelegates\obj\Debug\net8.0\ActionAndFuncDelegates.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ActionAndFuncDelegates\obj\Debug\net8.0\refint\ActionAndFuncDelegates.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ActionAndFuncDelegates\obj\Debug\net8.0\ActionAndFuncDelegates.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ActionAndFuncDelegates\obj\Debug\net8.0\ActionAndFuncDelegates.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ActionAndFuncDelegates\obj\Debug\net8.0\ref\ActionAndFuncDelegates.dll
