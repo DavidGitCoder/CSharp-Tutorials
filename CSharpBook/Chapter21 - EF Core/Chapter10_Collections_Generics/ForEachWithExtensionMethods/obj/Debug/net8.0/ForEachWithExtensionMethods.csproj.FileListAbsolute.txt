@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ForEachWithExtensionMethods\bin\Debug\net8.0\ForEachWithExtensionMethods.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ForEachWithExtensionMethods\bin\Debug\net8.0\ForEachWithExtensionMethods.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ForEachWithExtensionMethods\bin\Debug\net8.0\ForEachWithExtensionMethods.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ForEachWithExtensionMethods\bin\Debug\net8.0\ForEachWithExtensionMethods.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ForEachWithExtensionMethods\bin\Debug\net8.0\ForEachWithExtensionMethods.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ForEachWithExtensionMethods\obj\Debug\net8.0\ForEachWithExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ForEachWithExtensionMethods\obj\Debug\net8.0\ForEachWithExtensionMethods.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ForEachWithExtensionMethods\obj\Debug\net8.0\ForEachWithExtensionMethods.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ForEachWithExtensionMethods\obj\Debug\net8.0\ForEachWithExtensionMethods.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ForEachWithExtensionMethods\obj\Debug\net8.0\ForEachWithExtensionMethods.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ForEachWithExtensionMethods\obj\Debug\net8.0\ForEachWithExtensionMethods.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ForEachWithExtensionMethods\obj\Debug\net8.0\refint\ForEachWithExtensionMethods.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ForEachWithExtensionMethods\obj\Debug\net8.0\ForEachWithExtensionMethods.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ForEachWithExtensionMethods\obj\Debug\net8.0\ForEachWithExtensionMethods.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter21 - EF Core\Chapter10_Collections_Generics\ForEachWithExtensionMethods\obj\Debug\net8.0\ref\ForEachWithExtensionMethods.dll

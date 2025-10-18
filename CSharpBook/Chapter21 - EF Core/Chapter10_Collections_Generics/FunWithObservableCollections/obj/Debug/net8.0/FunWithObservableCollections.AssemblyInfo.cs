@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FunWithObservableCollections")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8afcdc1e8967962f035eabfb221051e499613eff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d832915cad4f1a715ca920a1ca27402b46ec37fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("FunWithObservableCollections")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FunWithObservableCollections")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
