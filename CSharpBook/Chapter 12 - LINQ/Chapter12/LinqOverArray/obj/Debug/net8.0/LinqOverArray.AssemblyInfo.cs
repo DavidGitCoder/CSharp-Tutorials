@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinqOverArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff33293598fe5ef740aa34e8e8d7af8874cb6d3d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b91377912c44568c89444e1f70691b36257f12c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinqOverArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinqOverArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

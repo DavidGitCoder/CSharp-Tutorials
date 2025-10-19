@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverArray\bin\Debug\net8.0\LinqOverArray.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverArray\bin\Debug\net8.0\LinqOverArray.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverArray\bin\Debug\net8.0\LinqOverArray.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverArray\bin\Debug\net8.0\LinqOverArray.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverArray\bin\Debug\net8.0\LinqOverArray.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverArray\obj\Debug\net8.0\LinqOverArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverArray\obj\Debug\net8.0\LinqOverArray.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverArray\obj\Debug\net8.0\LinqOverArray.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverArray\obj\Debug\net8.0\LinqOverArray.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverArray\obj\Debug\net8.0\LinqOverArray.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverArray\obj\Debug\net8.0\LinqOverArray.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverArray\obj\Debug\net8.0\refint\LinqOverArray.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverArray\obj\Debug\net8.0\LinqOverArray.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverArray\obj\Debug\net8.0\LinqOverArray.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverArray\obj\Debug\net8.0\ref\LinqOverArray.dll
