@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter 12 - LINQ\\Chapter12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D05E7AB-73E3-4395-8E86-424A288D7D87}|LinqOverArray\\LinqOverArray.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter 12 - linq\\chapter12\\linqoverarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D05E7AB-73E3-4395-8E86-424A288D7D87}|LinqOverArray\\LinqOverArray.csproj|solutionrelative:linqoverarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC3A4027-E580-4F7E-B1F2-BC65F3E9DC57}|LinqUsingEnumerable\\LinqUsingEnumerable.csproj|e:\\dev\\.net projects\\source\\repos\\csharp-tutorials\\csharpbook\\chapter 12 - linq\\chapter12\\linqusingenumerable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC3A4027-E580-4F7E-B1F2-BC65F3E9DC57}|LinqUsingEnumerable\\LinqUsingEnumerable.csproj|solutionrelative:linqusingenumerable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter 12 - LINQ\\Chapter12\\LinqOverArray\\Program.cs",
-              "RelativeDocumentMoniker": "LinqOverArray\\Program.cs",
-              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter 12 - LINQ\\Chapter12\\LinqOverArray\\Program.cs*",
-              "RelativeToolTip": "LinqOverArray\\Program.cs*",
-              "ViewState": "AgIAACQAAAAAAAAAAAAIwD4AAAAgAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter 12 - LINQ\\Chapter12\\LinqUsingEnumerable\\Program.cs",
+              "RelativeDocumentMoniker": "LinqUsingEnumerable\\Program.cs",
+              "ToolTip": "E:\\DEV\\.Net Projects\\source\\repos\\CSharp-Tutorials\\CSharpBook\\Chapter 12 - LINQ\\Chapter12\\LinqUsingEnumerable\\Program.cs*",
+              "RelativeToolTip": "LinqUsingEnumerable\\Program.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswDIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T20:40:09.426Z",
+              "WhenOpened": "2025-10-19T20:19:32.644Z",
               "EditorCaption": ""
             }
           ]

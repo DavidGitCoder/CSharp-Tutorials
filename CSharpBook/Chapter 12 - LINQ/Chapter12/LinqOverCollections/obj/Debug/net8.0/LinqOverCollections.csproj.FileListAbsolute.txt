@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverCollections\bin\Debug\net8.0\LinqOverCollections.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverCollections\bin\Debug\net8.0\LinqOverCollections.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverCollections\bin\Debug\net8.0\LinqOverCollections.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverCollections\bin\Debug\net8.0\LinqOverCollections.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverCollections\bin\Debug\net8.0\LinqOverCollections.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverCollections\obj\Debug\net8.0\LinqOverCollections.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverCollections\obj\Debug\net8.0\LinqOverCollections.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverCollections\obj\Debug\net8.0\LinqOverCollections.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverCollections\obj\Debug\net8.0\LinqOverCollections.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverCollections\obj\Debug\net8.0\LinqOverCollections.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverCollections\obj\Debug\net8.0\LinqOverCollections.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverCollections\obj\Debug\net8.0\refint\LinqOverCollections.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverCollections\obj\Debug\net8.0\LinqOverCollections.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverCollections\obj\Debug\net8.0\LinqOverCollections.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqOverCollections\obj\Debug\net8.0\ref\LinqOverCollections.dll

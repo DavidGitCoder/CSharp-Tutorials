@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqReturnValues\bin\Debug\net8.0\LinqReturnValues.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqReturnValues\bin\Debug\net8.0\LinqReturnValues.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqReturnValues\bin\Debug\net8.0\LinqReturnValues.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqReturnValues\bin\Debug\net8.0\LinqReturnValues.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqReturnValues\bin\Debug\net8.0\LinqReturnValues.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqReturnValues\obj\Debug\net8.0\LinqReturnValues.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqReturnValues\obj\Debug\net8.0\LinqReturnValues.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqReturnValues\obj\Debug\net8.0\LinqReturnValues.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqReturnValues\obj\Debug\net8.0\LinqReturnValues.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqReturnValues\obj\Debug\net8.0\LinqReturnValues.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqReturnValues\obj\Debug\net8.0\LinqReturnValues.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqReturnValues\obj\Debug\net8.0\refint\LinqReturnValues.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqReturnValues\obj\Debug\net8.0\LinqReturnValues.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqReturnValues\obj\Debug\net8.0\LinqReturnValues.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqReturnValues\obj\Debug\net8.0\ref\LinqReturnValues.dll

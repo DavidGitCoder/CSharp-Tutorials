@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqUsingEnumerable\bin\Debug\net8.0\LinqUsingEnumerable.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqUsingEnumerable\bin\Debug\net8.0\LinqUsingEnumerable.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqUsingEnumerable\bin\Debug\net8.0\LinqUsingEnumerable.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqUsingEnumerable\bin\Debug\net8.0\LinqUsingEnumerable.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqUsingEnumerable\bin\Debug\net8.0\LinqUsingEnumerable.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqUsingEnumerable\obj\Debug\net8.0\LinqUsingEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqUsingEnumerable\obj\Debug\net8.0\LinqUsingEnumerable.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqUsingEnumerable\obj\Debug\net8.0\LinqUsingEnumerable.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqUsingEnumerable\obj\Debug\net8.0\LinqUsingEnumerable.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqUsingEnumerable\obj\Debug\net8.0\LinqUsingEnumerable.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqUsingEnumerable\obj\Debug\net8.0\LinqUsingEnumerable.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqUsingEnumerable\obj\Debug\net8.0\refint\LinqUsingEnumerable.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqUsingEnumerable\obj\Debug\net8.0\LinqUsingEnumerable.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqUsingEnumerable\obj\Debug\net8.0\LinqUsingEnumerable.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\LinqUsingEnumerable\obj\Debug\net8.0\ref\LinqUsingEnumerable.dll

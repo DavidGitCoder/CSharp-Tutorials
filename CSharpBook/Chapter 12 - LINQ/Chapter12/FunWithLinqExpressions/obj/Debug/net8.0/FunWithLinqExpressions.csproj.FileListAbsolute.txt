@@ -1,0 +1,15 @@
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\FunWithLinqExpressions\bin\Debug\net8.0\FunWithLinqExpressions.exe
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\FunWithLinqExpressions\bin\Debug\net8.0\FunWithLinqExpressions.deps.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\FunWithLinqExpressions\bin\Debug\net8.0\FunWithLinqExpressions.runtimeconfig.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\FunWithLinqExpressions\bin\Debug\net8.0\FunWithLinqExpressions.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\FunWithLinqExpressions\bin\Debug\net8.0\FunWithLinqExpressions.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\FunWithLinqExpressions\obj\Debug\net8.0\FunWithLinqExpressions.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\FunWithLinqExpressions\obj\Debug\net8.0\FunWithLinqExpressions.AssemblyInfoInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\FunWithLinqExpressions\obj\Debug\net8.0\FunWithLinqExpressions.AssemblyInfo.cs
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\FunWithLinqExpressions\obj\Debug\net8.0\FunWithLinqExpressions.csproj.CoreCompileInputs.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\FunWithLinqExpressions\obj\Debug\net8.0\FunWithLinqExpressions.sourcelink.json
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\FunWithLinqExpressions\obj\Debug\net8.0\FunWithLinqExpressions.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\FunWithLinqExpressions\obj\Debug\net8.0\refint\FunWithLinqExpressions.dll
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\FunWithLinqExpressions\obj\Debug\net8.0\FunWithLinqExpressions.pdb
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\FunWithLinqExpressions\obj\Debug\net8.0\FunWithLinqExpressions.genruntimeconfig.cache
+E:\DEV\.Net Projects\source\repos\CSharp-Tutorials\CSharpBook\Chapter 12 - LINQ\Chapter12\FunWithLinqExpressions\obj\Debug\net8.0\ref\FunWithLinqExpressions.dll
